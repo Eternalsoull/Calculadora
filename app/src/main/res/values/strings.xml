@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="put_name">Put your name </string>
+    <string name="put_last_name">Put your last name</string>
+</resources>

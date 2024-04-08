@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Aplicacion</string>
+    <string name="put_name">0</string>
+    <string name="put_last_name">Digite su apellido</string>
+</resources>
